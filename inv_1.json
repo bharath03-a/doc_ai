@@ -1,0 +1,50 @@
+{
+ "1": {
+  "fieldName": "Total",
+  "fieldValue": "$6,909.2"
+ },
+ "2": {
+  "fieldName": "Tax (3%)",
+  "fieldValue": "$201.2"
+ },
+ "3": {
+  "fieldName": "Subtotal",
+  "fieldValue": "$6,707.9"
+ },
+ "4": {
+  "fieldName": "Date",
+  "fieldValue": "Jul 11, 201"
+ },
+ "5": {
+  "fieldName": "Amount Paid",
+  "fieldValue": "$5,000.0"
+ },
+ "6": {
+  "fieldName": "Due Date",
+  "fieldValue": "Jul 15, 201"
+ },
+ "7": {
+  "fieldName": "Payment Terms",
+  "fieldValue": "qwert"
+ },
+ "8": {
+  "fieldName": "Balance Due",
+  "fieldValue": "$1,909.2"
+ },
+ "9": {
+  "fieldName": "From",
+  "fieldValue": ""
+ },
+ "10": {
+  "fieldName": "Bill To",
+  "fieldValue": "Samantha Adel"
+ },
+ "11": {
+  "fieldName": "Terms",
+  "fieldValue": "Paid by Cash. Cancellation before 7 days"
+ },
+ "12": {
+  "fieldName": "Kumar Sharm",
+  "fieldValue": "# 1234098"
+ }
+}
